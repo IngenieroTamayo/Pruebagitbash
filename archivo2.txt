@@ -1,2 +1,4 @@
 Esto es una serie de comando en git
+Hola grupo de nuevas tecnologias de la información
+Esto es otro dato
 
